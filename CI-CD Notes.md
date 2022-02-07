@@ -1,5 +1,5 @@
 
-                                                                 CI/CD PIPELINE 
+                                                                CI/CD PIPELINE 
 
 The CI/CD pipeline is one of the best practices software development and devops teams can implement, as it allows them to deliver code changes more frequently and reliably.
 
@@ -8,7 +8,7 @@ The CI/CD pipeline uses test automation to identify potential issues earlier, pu
 
 
 
-1) Use cases of CI/CD
+# 1) Use cases of CI/CD
 
 Push small code changes, frequently
 Build tests
@@ -19,7 +19,7 @@ Automate all the things
 Continuously improve the process
 
 
-2) Advantages of using CI/CD
+# 2) Advantages of using CI/CD
 
 Automated testing enables continuous delivery, which ensures software quality and security and increases the profitability of code in production.
 
@@ -31,63 +31,63 @@ Automation frees team members to focus on what they do best, yielding the best e
 
 Organizations with a successful CI/CD pipeline can attract great talent. By moving away from traditional waterfall methods, engineers and developers are no longer bogged down with repetitive activities that are often highly dependent on the completion of other tasks.
 
-3) Name all major tools available for CI/CD
+# 3) Name all major tools available for CI/CD
 
-Jenkins
-CircleCI
-TeamCity
-Bamboo
-GitLab
-Buddy
-Travis CI
-Codeship
+* Jenkins
+* CircleCI
+* TeamCity
+* Bamboo
+* GitLab
+* Buddy
+* Travis CI
+* Codeship
 
 
-4) Compare all tools which you mentioned in point 3 
+# 4) Compare all tools which you mentioned in point 3 
 
-Jenkins key features:
+## Jenkins key features:
 
 Easy installation and upgrade on various OSs
 Simple and user-friendly interface
 Extensible with huge community-contributed plugin resource
 
-CircleCI key features:
+## CircleCI key features:
 
 Integrates with Bitbucket, GitHub, and GitHub Enterprise
 Runs builds using a container or virtual machine
 Easy debugging
 
-TeamCity key features:
+## TeamCity key features:
 
 Provides multiple ways to reuse settings and configurations of the parent project to the subproject
 Runs parallel builds simultaneously on different environments
 Enables running history builds, viewing test history reports, pinning, tagging, and adding builds to favorites
 
-Bamboo key features:
+## Bamboo key features:
 
 Supports up to 100 remote build agents 
 Run batches of tests in parallel and get feedback quickly
 Creates images and pushes into a registry
 
-GitLab key features:
+## GitLab key features:
 
 View, create and manage codes and project data through branching tools
 Design, develop, and manage codes and project data from a single distributed version control system, enabling rapid iteration and delivery of business values
 Provides a single source of truth and scalability for collaborating on projects and code
 
-Buddy key features:
+## Buddy key features:
 
 Easy to customize Docker-based images as a test environment 
 Smart change detection, state-of-the-art caching, parallelism, and all-around optimizations
 Create, customize, and reuse builds and test environments
 
-Travis CI key features:
+## Travis CI key features:
 
 Quick setup
 Live build views for GitHub projects monitoring
 Pull request support
 
-Codeship key features:
+## Codeship key features:
 
 Integrates with any tools, services, and cloud environments of choice
 Easy to use. Provides fast and thorough developer support. 
