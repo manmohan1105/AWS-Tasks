@@ -1,5 +1,5 @@
 
-                                                                #CI/CD PIPELINE 
+                                                                 CI/CD PIPELINE 
 
 The CI/CD pipeline is one of the best practices software development and devops teams can implement, as it allows them to deliver code changes more frequently and reliably.
 
