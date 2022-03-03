@@ -1,2 +1,2 @@
-## AWS-Tasks-asssigned-by-Mentor-
-this repo contains all the task related to aws services assignned by mentors
+## AWS-Tasks-
+this repo contains all the task related to some basic aws services 
